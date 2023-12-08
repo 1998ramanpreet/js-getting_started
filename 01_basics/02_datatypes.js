@@ -13,3 +13,10 @@
 // object
 console.log(typeof null); // object
 console.log(typeof undefined); // undefined
+
+// ------Data Types --------//
+//Primitive
+// 7 Types : String, Number, Boolean, null, undefined, symbol, BigInt
+
+// Reference (Non - primitive)
+// Array, Objects, Functions
