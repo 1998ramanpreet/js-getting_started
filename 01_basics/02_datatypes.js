@@ -20,3 +20,5 @@ console.log(typeof undefined); // undefined
 
 // Reference (Non - primitive)
 // Array, Objects, Functions
+
+// Stack (Primitive), Heap(Non-Primitive)
